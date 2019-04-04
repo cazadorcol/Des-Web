@@ -102,8 +102,6 @@
             }
 
         }
-/*Fin de la barra de navegación*/
-
 
 
 /*encabezado*/
@@ -119,10 +117,13 @@
 }
 
 .description{
-    position: absolute;
-    top: 40%;
-    margin: auto;
-    padding: 2em;
+    margin-top: 300px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color:rgba(0,95,127,0.70);
+    border-radius: 100px;
+    border-style: dashed
 
 }
 .description h1{
@@ -134,6 +135,7 @@
  width: 50%;
  line-height: 1.5;
 }
+/* Background del registro*/
 .registro {
     margin-top: 100px;
     background-color:rgba(0,95,127,0.70);
@@ -147,7 +149,7 @@
 
 /* posicion del boton */
 
-.buttonnDiv{
+.containerButton{
     margin-top: 50px;
     margin-left: 60px;
     margin-bottom: 40px;
