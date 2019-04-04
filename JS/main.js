@@ -17,6 +17,8 @@ function validacion() {
         alert('El campo de contraseña esta vacio!');
       } else if (contraseñaUsuario.length > 0 && contraseñaUsuario.length < 8) {
         alert('El campo de contraseña debe contener minimo 8 caracteres!')
+      }else{
+          alert('Gracias por registrarte en mi pagina')
       }
       return true;
     }
