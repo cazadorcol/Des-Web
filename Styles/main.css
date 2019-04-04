@@ -142,12 +142,18 @@
 
 }
 .registro h2{
-
     color: #E8A10A
 }
+/* boton */
+.buttonnDiv{
+    margin-top: 50px;
+    margin-left: 60px;
+    margin-bottom: 40;
+}
 .buttonn{
-    margin-top: 250px;
-    margin-left: 800px;
+    margin-top: 400px;
+    margin-left: 900px;
+
 }
 .boton_registro{
   -webkit-border-radius: 4;
